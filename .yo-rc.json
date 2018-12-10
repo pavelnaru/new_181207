@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "thientoan.learning"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "new_181207",
+    "packageName": "thientoan.learning",
+    "packageFolder": "thientoan/learning",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODhhNGQ4ZmNiZGJjMWRiZDc4OTBkNjY2NDk3MzJkYzg1MjIwZGE4ZjZlZTRiNDJkMjlkYjdiMjIyODNhOTM4YTU1NTAyYWM1YTFkYTg4OTVlNTRjYTEzNmY1Nzc1OGIxMTY0YmVjZTA4YTYyZGJlMDNiNjQ0MDcwZjM0ZWU5NDY=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
